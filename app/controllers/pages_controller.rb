@@ -10,4 +10,8 @@ class PagesController < ApplicationController
   def info
     @page = 'info'
   end
+
+  def menu
+    @page = 'menu'
+  end
 end

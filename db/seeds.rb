@@ -19,6 +19,6 @@ User.create(username: 'Admin',
       name: "Pizza",
       description: "Lorem Ipsum bbq checken",
       price: 11.99,
-      catering_item: true
+      catering: true
   )
 end
