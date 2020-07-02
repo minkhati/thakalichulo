@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4982153a-dd54-4c28-ba89-b09b110510eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/views/menu/_products.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/menu/search.js.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/pages.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/pages.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/pages_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/pages_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/_links.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/_links.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/_title.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/_title.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/menu_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/menu_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/products_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/products_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/product.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/product.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/menu/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/menu/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/products/_form.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/products/_form.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,7 +146,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593525159523</updated>
-      <workItem from="1593525161273" duration="8695000" />
+      <workItem from="1593525161273" duration="18287000" />
     </task>
     <servers />
   </component>
@@ -151,9 +154,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="305" y="44" width="670" height="676" key="search.everywhere.popup" timestamp="1593536475881">
+    <state x="306" y="128" width="667" height="486" key="find.popup" timestamp="1593647465076">
       <screen x="0" y="23" width="1280" height="697" />
     </state>
-    <state x="305" y="44" width="670" height="676" key="search.everywhere.popup/-102.-877.1440.877/0.23.1280.697@0.23.1280.697" timestamp="1593536475881" />
+    <state x="306" y="128" width="667" height="486" key="find.popup/-102.-877.1440.877/0.23.1280.697@0.23.1280.697" timestamp="1593647465076" />
+    <state x="305" y="44" width="670" height="676" key="search.everywhere.popup" timestamp="1593647200883">
+      <screen x="0" y="23" width="1280" height="697" />
+    </state>
+    <state x="305" y="44" width="670" height="676" key="search.everywhere.popup/-102.-877.1440.877/0.23.1280.697@0.23.1280.697" timestamp="1593647200883" />
   </component>
 </project>
