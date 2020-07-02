@@ -1,6 +1,10 @@
+# frozen_string_literal: true
+
 Rails.application.routes.draw do
-  resources :categories
+  resources :order_items
+  get 'cart', to: 'cart#show'
   get 'search', to: 'menu#search'
+  resources :categories
   get 'menu', to: 'menu#index'
   devise_for :users
   resources :products
