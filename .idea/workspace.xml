@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4982153a-dd54-4c28-ba89-b09b110510eb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/deploy.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/deploy.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/deploy/production.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/deploy/production.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/credentials.yml.enc" beforeDir="false" afterPath="$PROJECT_DIR$/config/credentials.yml.enc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/storage.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/storage.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +138,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593525159523</updated>
-      <workItem from="1593525161273" duration="27422000" />
+      <workItem from="1593525161273" duration="27741000" />
+      <workItem from="1594006357543" duration="1551000" />
     </task>
     <servers />
   </component>
@@ -151,9 +151,9 @@
       <screen x="0" y="23" width="1280" height="697" />
     </state>
     <state x="306" y="128" width="667" height="486" key="find.popup/-102.-877.1440.877/0.23.1280.697@0.23.1280.697" timestamp="1593703712762" />
-    <state x="305" y="44" width="670" height="676" key="search.everywhere.popup" timestamp="1593706242666">
+    <state x="305" y="44" width="670" height="676" key="search.everywhere.popup" timestamp="1594054570113">
       <screen x="0" y="23" width="1280" height="697" />
     </state>
-    <state x="305" y="44" width="670" height="676" key="search.everywhere.popup/-102.-877.1440.877/0.23.1280.697@0.23.1280.697" timestamp="1593706242666" />
+    <state x="305" y="44" width="670" height="676" key="search.everywhere.popup/-102.-877.1440.877/0.23.1280.697@0.23.1280.697" timestamp="1594054570113" />
   </component>
 </project>
