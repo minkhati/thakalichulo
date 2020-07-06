@@ -4,6 +4,7 @@
     <list default="true" id="4982153a-dd54-4c28-ba89-b09b110510eb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ruby-version" beforeDir="false" afterPath="$PROJECT_DIR$/.ruby-version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/storage.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/storage.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,10 +147,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="306" y="128" width="667" height="486" key="find.popup" timestamp="1594055837200">
+    <state x="307" y="128" width="667" height="486" key="find.popup" timestamp="1594069011866">
       <screen x="0" y="23" width="1280" height="697" />
     </state>
-    <state x="306" y="128" width="667" height="486" key="find.popup/-102.-877.1440.877/0.23.1280.697@0.23.1280.697" timestamp="1594055837200" />
+    <state x="307" y="128" width="667" height="486" key="find.popup/-102.-877.1440.877/0.23.1280.697@0.23.1280.697" timestamp="1594069011866" />
     <state x="305" y="44" width="670" height="676" key="search.everywhere.popup" timestamp="1594065478835">
       <screen x="0" y="23" width="1280" height="697" />
     </state>

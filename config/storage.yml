@@ -9,7 +9,7 @@ local:
 amazon:
   service: s3
   access_key_id: <%= Rails.application.credentials.dig(:aws, :access_key_id) %>
-  secrete_access_key: <%= Rails.application.credentials.dig(:aws, :secrete_access_key) %>
+  secret_access_key: <%= Rails.application.credentials.dig(:aws, :secret_access_key) %>
   region: nyc3
   bucket: thakalicafe
   endpoint: "https://nyc3.digitaloceanspaces.com"
