@@ -39,7 +39,7 @@ set :repo_url, "git@github.com:minkhati/thakalichulo.git"
 # set :ssh_options, verify_host_key: :secure
 
 
-# before 'deploy:assets:precompile', 'deploy:yarn_install'
+before 'deploy:assets:precompile', 'deploy:yarn_install'
 namespace :deploy do
   desc 'Run rake yarn install'
   task :yarn_install do
