@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4982153a-dd54-4c28-ba89-b09b110510eb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/deploy.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/deploy.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/deploy/production.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/deploy/production.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ruby-version" beforeDir="false" afterPath="$PROJECT_DIR$/.ruby-version" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +138,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593525159523</updated>
       <workItem from="1593525161273" duration="27741000" />
-      <workItem from="1594006357543" duration="6339000" />
+      <workItem from="1594006357543" duration="6588000" />
     </task>
     <servers />
   </component>
