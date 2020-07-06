@@ -4,6 +4,11 @@ lock "~> 3.14.1"
 set :application, "thakalicafe"
 set :repo_url, "git@github.com:minkhati/thakalichulo.git"
 
+set :default_env, {
+    PATH: '$HOME/.npm-packages/bin/:$PATH',
+    NODE_ENVIRONMENT: 'production'
+}
+
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
 
